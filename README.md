@@ -54,9 +54,9 @@ Soy un desarrollador junior con un fuerte enfoque en el análisis de datos y la 
 
 ## 📁 Repositorios destacados
 
-🔹 [Proyecto de Análisis de Datos con Power BI](#)  
-🔹 [Red Neuronal Predictiva con TensorFlow](#)  
-🔹 [Aplicación JavaFX para gestión de inventario](#)
+🔹 [Analisis de Campañas de Marketing](https://github.com/meellaadoo04/TFM-ImpactoMarketing)  
+🔹 [Proyecto End-to-End Big data](https://github.com/meellaadoo04/End-to-End-Soccer-Data-Engineering-Project)  
+🔹 [Modelo de Prediccion de precio de los coches](https://github.com/meellaadoo04/Precio_Coches)
 
 ---
 
