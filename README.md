@@ -2,7 +2,7 @@
 
 🎓 Estudiante del Máster en Big Data e Inteligencia Artificial en Tajamar Tech  
 💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)  
-📍 Getafe, Madrid | 📧 melladodaniel9@gmail.com
+
 
 ---
 
@@ -62,7 +62,7 @@ Soy un desarrollador junior con un fuerte enfoque en el análisis de datos y la 
 
 ## 📫 ¿Dónde encontrarme?
 - [LinkedIn](https://www.linkedin.com/in/daniel-mellado-vega)  
-
+- 📧 melladodaniel9@gmail.com
 
 ---
 
