@@ -61,10 +61,8 @@ Soy un desarrollador junior con un fuerte enfoque en el análisis de datos y la 
 ---
 
 ## 📫 ¿Dónde encontrarme?
-
 - [LinkedIn](https://www.linkedin.com/in/daniel-mellado-vega)  
-- [GitHub](https://github.com/meellaadoo04)  
-- Correo: melladodaniel9@gmail.com
+
 
 ---
 
