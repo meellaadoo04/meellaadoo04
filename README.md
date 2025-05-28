@@ -14,7 +14,6 @@
 - 💡 Apasionado por la tecnología, la IA y la automatización
 - 🌱 Actualmente aprendiendo sobre proyectos end-to-end en Azure y análisis de datos
 - 👨‍💻 Experiencia en entorno real con Accenture (cliente Airbus)
-- 📫 Cómo contactarme: **melladodaniel9@gmail.com**
 - ⚡ Dato curioso: Me encanta aprender constantemente y resolver problemas complejos con creatividad
 
 <br>
