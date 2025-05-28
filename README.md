@@ -22,12 +22,11 @@
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-mellado-vega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel mellado" height="30" width="40" /></a>
-  <a href="https://github.com/meellaadoo04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="meellaadoo04" height="30" width="40" /></a>
 </p>
 
 <br>
 
-<h3 align="left">Lenguajes de Programación:</h3>
+<h3 align="left">🧑‍💻 Lenguajes de Programación:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
@@ -36,14 +35,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" />
 </p>
 
-<h3 align="left"> Herramientas de Visualización y Análisis:</h3>
+<h3 align="left">📊 Herramientas de Visualización y Análisis:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40" />
 </p>
 
-<h3 align="left"> Inteligencia Artificial y Machine Learning:</h3>
+<h3 align="left">🧠 Inteligencia Artificial y Machine Learning:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40" />
@@ -51,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" />
 </p>
 
-<h3 align="left">Cloud y Big Data:</h3>
+<h3 align="left">☁️ Cloud y Big Data:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
@@ -60,7 +59,7 @@
 
 <br>
 
-<h3 align="left"> Estadísticas:</h3>
+<h3 align="left">📈 Estadísticas:</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meellaadoo04&layout=compact&theme=dark" />
 </p>
@@ -74,3 +73,11 @@
 ---
 
 <h4 align="center">“En constante aprendizaje, siempre dispuesto a enfrentar nuevos desafíos con determinación y creatividad.”</h4>
+
+<br>
+
+<p align="center">
+  <a href="mailto:melladodaniel9@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/new-post.png" alt="email" />
+  </a>
+</p>
