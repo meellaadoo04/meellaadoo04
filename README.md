@@ -1,70 +1,61 @@
-# 👋 ¡Hola! Soy Daniel Mellado Vega
+<h1 align="center">Hola 👋, soy Daniel Mellado Vega</h1>
+<h3 align="center">Estudiante del Máster en Big Data e Inteligencia Artificial en Tajamar Tech</h3>
 
-🎓 Estudiante del Máster en Big Data e Inteligencia Artificial en Tajamar Tech  
-💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)  
+<br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=meellaadoo04&label=Profile%20views&color=0e75b6&style=flat" alt="meellaadoo04" />
+</p>
 
----
+<p align="right">
+  <img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="daniel-mellado" width="300" />
+</p>
 
-## 🚀 Sobre mí
+- 💡 Apasionado por la tecnología, la IA y la automatización
+- 🌱 Actualmente aprendiendo sobre proyectos end-to-end en Azure y análisis de datos
+- 👨‍💻 Experiencia en entorno real con Accenture (cliente Airbus)
+- 📫 Cómo contactarme: **melladodaniel9@gmail.com**
+- ⚡ Dato curioso: Me encanta aprender constantemente y resolver problemas complejos con creatividad
 
-Soy un desarrollador junior con un fuerte enfoque en el análisis de datos y la inteligencia artificial. Me apasiona la tecnología, la automatización y los proyectos que conectan datos con soluciones reales de negocio. Actualmente, formo parte del programa de formación en IA y Big Data, y continúo adquiriendo experiencia profesional mediante prácticas en entornos reales.
+<br>
 
----
+<h3 align="left">Conecta conmigo:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/daniel-mellado-vega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel mellado" height="30" width="40" /></a>
+  <a href="https://github.com/meellaadoo04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="meellaadoo04" height="30" width="40" /></a>
+</p>
 
-## 🧠 Tecnologías y herramientas
+<br>
 
-**Lenguajes de programación:**  
-- Python | C# | Java | SQL | HTML & CSS  
+<h3 align="left">Lenguajes y herramientas:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40" />
+</p>
 
-**Frameworks y entornos:**  
-- TensorFlow | JavaFX | .NET | Pandas | Jupyter Notebooks  
+<br>
 
-**Cloud y Big Data:**  
-- Azure (Data Factory, Synapse, ML, OpenAI)  
-- Apache Spark | Databricks | Power BI  
-
-**Bases de datos:**  
-- MySQL | Oracle | Azure SQL Database  
-
-**Otros:**  
-- Git | GitHub | Azure DevOps | Kanban (Agile)
-
----
-
-## 📜 Certificaciones
-
-- 🧠 Microsoft Certified: Azure AI Engineer Associate (AI-102)  
-- 📊 Microsoft Certified: Azure Data Scientist Associate (DP-100)  
-- 🗄️ Microsoft Certified: Azure Data Engineer Associate (DP-203)  
-
-
----
-
-## 💼 Experiencia profesional
-
-**🔹 Accenture (para Airbus)** — *Técnico en IA y Big Data*  
-📍 Madrid | 🗓️ 2024
-
-- Automatización de procesamiento de manuales técnicos sobre el  mantenimiento de aviones en XML.  
- 
-
-
----
-
-## 📁 Repositorios destacados
-
-🔹 [Analisis de Campañas de Marketing](https://github.com/meellaadoo04/TFM-ImpactoMarketing)  
-🔹 [Proyecto End-to-End Big data](https://github.com/meellaadoo04/End-to-End-Soccer-Data-Engineering-Project)  
-🔹 [Modelo de Prediccion de precio de los coches](https://github.com/meellaadoo04/Precio_Coches)
+<h3 align="left">📈 Estadísticas:</h3>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meellaadoo04&layout=compact&theme=dark" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meellaadoo04&show_icons=true&locale=en&theme=dark" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meellaadoo04&theme=dark" />
+</p>
 
 ---
 
-## 📫 ¿Dónde encontrarme?
-- [LinkedIn](https://www.linkedin.com/in/daniel-mellado-vega)  
-- melladodaniel9@gmail.com
-
----
-
-### 📌 *"En constante aprendizaje, siempre dispuesto a enfrentar nuevos desafíos con determinación y creatividad."*
-
+<h4 align="center">“En constante aprendizaje, siempre dispuesto a enfrentar nuevos desafíos con determinación y creatividad.”</h4>
