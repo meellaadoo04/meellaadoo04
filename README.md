@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Daniel Mellado Vega</h1>
-<h3 align="center">Estudiante del Máster en Big Data e Inteligencia Artificial en Tajamar Tech</h3>
+<h3 align="center">Técnico en Inteligencia Artificial y Big data</h3>
 
 <br>
 
