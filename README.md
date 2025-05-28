@@ -60,7 +60,7 @@
 
 <br>
 
-<h3 align="left">📈 Estadísticas:</h3>
+<h3 align="left"> Estadísticas:</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meellaadoo04&layout=compact&theme=dark" />
 </p>
