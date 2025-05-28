@@ -21,6 +21,7 @@
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
+  <a href="mailto:melladodaniel9@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="email" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/daniel-mellado-vega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel mellado" height="30" width="40" /></a>
   <a href="https://github.com/meellaadoo04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="meellaadoo04" height="30" width="40" /></a>
 </p>
@@ -40,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" />
-   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40" />
 </p>
 
 <br>
