@@ -19,13 +19,6 @@
 
 <br>
 
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/daniel-mellado-vega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel mellado" height="30" width="40" /></a>
-</p>
-
-<br>
-
 <h3 align="left">🧑‍💻 Lenguajes de Programación:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
@@ -59,25 +52,18 @@
 
 <br>
 
-<h3 align="left">📈 Estadísticas:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meellaadoo04&layout=compact&theme=dark" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meellaadoo04&show_icons=true&locale=en&theme=dark" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meellaadoo04&theme=dark" />
-</p>
-
 ---
 
 <h4 align="center">“En constante aprendizaje, siempre dispuesto a enfrentar nuevos desafíos con determinación y creatividad.”</h4>
 
 <br>
 
+<h3 align="center">📬 ¡Conecta conmigo!</h3>
 <p align="center">
   <a href="mailto:melladodaniel9@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/new-post.png" alt="email" />
+    <img src="https://img.shields.io/badge/Email-Daniel%20Mellado-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-mellado-vega" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Mellado-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
