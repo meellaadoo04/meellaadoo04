@@ -61,9 +61,9 @@
 <h3 align="center">📬 ¡Conecta conmigo!</h3>
 <p align="center">
   <a href="mailto:melladodaniel9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Daniel%20Mellado-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/melladodaniel9@gmail.com-Daniel%20Mellado-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://www.linkedin.com/in/daniel-mellado-vega" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Mellado-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
