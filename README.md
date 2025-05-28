@@ -27,7 +27,7 @@
 
 <br>
 
-<h3 align="left">🧑‍💻 Lenguajes de Programación:</h3>
+<h3 align="left">Lenguajes de Programación:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
@@ -36,14 +36,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" />
 </p>
 
-<h3 align="left">📊 Herramientas de Visualización y Análisis:</h3>
+<h3 align="left"> Herramientas de Visualización y Análisis:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40" />
 </p>
 
-<h3 align="left">🧠 Inteligencia Artificial y Machine Learning:</h3>
+<h3 align="left"> Inteligencia Artificial y Machine Learning:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40" />
@@ -51,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" />
 </p>
 
-<h3 align="left">☁️ Cloud y Big Data:</h3>
+<h3 align="left">Cloud y Big Data:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
